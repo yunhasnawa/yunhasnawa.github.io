@@ -1,0 +1,1173 @@
+{
+  "personal_data": {
+    "full_name": "Yoppy Yunhasnawa",
+    "nickname": "Yoppy",
+    "nationality": "Indonesia",
+    "gender": "Male",
+    "current_address": "Malang, East Java, Indonesia",
+    "contact_email": "yunhasnawa@polinema.ac.id",
+    "occupation": "Permanent Lecturer (Civil Servant)",
+    "institution": "Central Institution - Indonesian Ministry of Higher Education, Science, and Technology",
+    "civil_service_status": "PNS (Assistant Professor)",
+    "unit_eselon_1": "Directorate General of Higher Education",
+    "unit_eselon_2": "State Polytechnic of Malang",
+    "official_page": "https://pddikti.kemdiktisaintek.go.id/search/dosen/Yoppy%20Yunhasnawa",
+    "teaching_level": "Lektor (Senior Lecturer)",
+    "department": "Information Technology",
+    "program": "Informatics Engineering (Bachelor of Applied Science)",
+    "courses_taught": [
+      "Cloud Computing",
+      "Big Data",
+      "Integrated Technology Project",
+      "Object-Oriented Programming",
+      "Advanced Database",
+      "Leadership in IT",
+      "Data Warehouse",
+      "Software Engineering Concept",
+      "Basic Database",
+      "Critical Thinking dan Problem Solving"
+    ],
+    "social_media": {
+      "linkedin": "https://www.linkedin.com/in/yunhasnawa",
+      "twitter": "https://twitter.com/yunhasnawa",
+      "instagram": "https://www.instagram.com/yunhasnawa",
+      "github": "https://github.com/yunhasnawa/"
+    }
+  },
+  "strong_points": [
+    "Problem solver, accustomed to logical and critical thinking.",
+    "Willing to work hard, but on the other hand always thinking to find more efficient ways.",
+    "Responsible, upholds honesty, and patient.",
+    "Enjoys reading and learning new things/topics/knowledge.",
+    "Good at analysis and strategic planning.",
+    "Has good communication and persuasion skills."
+  ],
+  "weak_points": [
+    "Not good at mathematics.",
+    "Avoids problems, but tends to fight/rebel when feeling intimidated.",
+    "Dislikes multi-tasking.",
+    "Tends to be lazy when there are many accumulated and overlapping tasks.",
+    "Doesn't like to order/command/ask for help from others."
+  ],
+  "education_history": [
+    {
+      "level": "Master's Degree",
+      "start_year": 2014,
+      "end_year": 2016,
+      "institution": "Chang Gung University, Taiwan",
+      "field_of_study": "Computer Science & Information Engineering",
+      "gpa": 3.82,
+      "scale": 4.0,
+      "student_id": "M0329016",
+      "status": "Best Graduate"
+    },
+    {
+      "level": "Bachelor's Degree",
+      "start_year": 2011,
+      "end_year": 2013,
+      "institution": "State Electronics Polytechnic of Surabaya",
+      "field_of_study": "Informatics Engineering",
+      "gpa": 3.55,
+      "scale": 4.0,
+      "student_id": "7411040713",
+      "status": "Graduated"
+    },
+    {
+      "level": "Diploma III (Associate Degree)",
+      "start_year": 2008,
+      "end_year": 2010,
+      "institution": "State Polytechnic of Malang",
+      "field_of_study": "Information Management",
+      "gpa": 3.47,
+      "scale": 4.0,
+      "student_id": "0831143028",
+      "status": "Graduated"
+    },
+    {
+      "level": "Diploma I (Certificate)",
+      "start_year": 2007,
+      "end_year": 2008,
+      "institution": "State Polytechnic of Malang",
+      "field_of_study": "English & Computer Professional",
+      "gpa": 3.69,
+      "scale": 4.0,
+      "student_id": "0711140131",
+      "status": "Best Graduate"
+    },
+    {
+      "level": "Senior High School",
+      "start_year": 2004,
+      "end_year": 2007,
+      "institution": "State Senior High School 1 Lawang",
+      "field_of_study": "Natural Sciences",
+      "gpa": 26.80,
+      "scale": 30.0,
+      "student_id": "012064",
+      "status": "Graduated"
+    },
+    {
+      "level": "Junior High School",
+      "start_year": 2001,
+      "end_year": 2004,
+      "institution": "State Junior High School 1 Singosari",
+      "field_of_study": "-",
+      "gpa": 23.55,
+      "scale": 30.0,
+      "student_id": "10983",
+      "status": "Graduated"
+    },
+    {
+      "level": "Elementary School",
+      "start_year": 1995,
+      "end_year": 2001,
+      "institution": "State Elementary School Taman Harjo II",
+      "field_of_study": "-",
+      "gpa": 42.75,
+      "scale": 50.0,
+      "student_id": "1356",
+      "status": "Best Graduate"
+    }
+  ],
+  "employment_history": [
+    {
+      "institution": "State Polytechnic of Malang",
+      "position": "Lecturer - Head of Data Technology Laboratory",
+      "start_year": 2016,
+      "end_year": null,
+      "reason_for_leaving": "Still employed"
+    },
+    {
+      "institution": "PT. Tomat Ekno (Tomatech Mobile)",
+      "position": "Lead iOS Developer",
+      "start_year": 2012,
+      "end_year": 2014,
+      "reason_for_leaving": "Pursuing higher education"
+    },
+    {
+      "institution": "Merdeka.com (KLN Group)",
+      "position": "Web Programmer",
+      "start_year": 2012,
+      "end_year": 2012,
+      "annual_income_range": "< 36,000,000",
+      "reason_for_leaving": "New opportunity"
+    },
+    {
+      "institution": "PT. Mocoplus Technology (KLN Group)",
+      "position": "Web Game Programmer",
+      "start_year": 2012,
+      "end_year": 2012,
+      "reason_for_leaving": "Internal reorganization"
+    },
+    {
+      "institution": "PT. IntegraASP (KLN Group)",
+      "position": "R&D Programmer",
+      "start_year": 2011,
+      "end_year": 2012,
+      "reason_for_leaving": "Internal reorganization"
+    },
+    {
+      "institution": "PT. KapanLagi.com (KLN Group)",
+      "position": "Web Programmer",
+      "start_year": 2010,
+      "end_year": 2011,
+      "reason_for_leaving": "Internal reorganization"
+    },
+    {
+      "institution": "PT. Pamolite Adhesive Industy, Probolinggo",
+      "position": "Desktop App Programmer Intern",
+      "start_year": 2010,
+      "end_year": 2010,
+      "reason_for_leaving": "Internship completed"
+    },
+    {
+      "institution": "Directorate General of Taxation, Ministry of Finance of the Republic of Indonesia",
+      "position": "Desktop App Programmer Intern",
+      "start_year": 2008,
+      "end_year": 2008,
+      "reason_for_leaving": "Internship completed"
+    }
+  ],
+  "organizational_experience": [
+    {
+      "organization_type": "Social/Non-Profit",
+      "organization": "Daarul Faroh Solihin Foundation",
+      "year": 2024,
+      "month": "March",
+      "position": "Website Administrator"
+    },
+    {
+      "organization_type": "Social/Non-Profit",
+      "organization": "Bumi Langgat Peduli Foundation",
+      "year": 2023,
+      "month": "March",
+      "position": "Website Administrator"
+    },
+    {
+      "organization_type": "Professional",
+      "organization": "Indonesian Society of Applied Science (ISAS)",
+      "year": 2021,
+      "month": "April",
+      "position": "Member"
+    },
+    {
+      "organization_type": "Professional",
+      "organization": "Association for Information Systems Indonesia (AISINDO)",
+      "year": 2018,
+      "month": "November",
+      "position": "Member"
+    },
+    {
+      "organization_type": "Social/Non-Profit",
+      "organization": "State Polytechnic of Malang IT Department Alumni Association",
+      "year": 2018,
+      "month": "September",
+      "position": "Board Member"
+    },
+    {
+      "organization_type": "Social/Non-Profit",
+      "organization": "Graha Pulo Mas Housing Management Board",
+      "year": 2018,
+      "month": "August",
+      "position": "Advisor"
+    },
+    {
+      "organization_type": "Social/Non-Profit",
+      "organization": "Kenapa Sekolah Volunteer Organization",
+      "year": 2015,
+      "month": "January",
+      "position": "Editor Member"
+    },
+    {
+      "organization_type": "University Club",
+      "organization": "Chang Gung University Kendo Club",
+      "year": 2014,
+      "month": "September",
+      "position": "Member"
+    },
+    {
+      "organization_type": "Professional",
+      "organization": "Tomatech Mobile Shareholders Group",
+      "year": 2013,
+      "month": "July",
+      "position": "Member"
+    },
+    {
+      "organization_type": "University Club",
+      "organization": "Education and Reasoning Student Activity Unit State Polytechnic of Malang",
+      "year": 2008,
+      "month": "September",
+      "position": "Member"
+    },
+    {
+      "organization_type": "School Club",
+      "organization": "Student Council State Senior High School 1 Lawang",
+      "year": 2005,
+      "month": "September",
+      "position": "General Chairman"
+    },
+    {
+      "organization_type": "School Club",
+      "organization": "Islamic Da'wah Institution State Senior High School 1 Lawang",
+      "year": 2005,
+      "month": "February",
+      "position": "Member"
+    },
+    {
+      "organization_type": "Social/Non-Profit",
+      "organization": "Purna Paskibra Indonesia Malang Regency",
+      "year": 2005,
+      "month": "August",
+      "position": "Purna Squad 17 Member"
+    },
+    {
+      "organization_type": "School Club",
+      "organization": "Flag Hoisting Extracurricular State Senior High School 1 Lawang",
+      "year": 2004,
+      "month": "December",
+      "position": "Head of Research and Development Division"
+    },
+    {
+      "organization_type": "School Club",
+      "organization": "Karate LEMKARI Extracurricular",
+      "year": 2004,
+      "month": "December",
+      "position": "Member"
+    },
+    {
+      "organization_type": "School Club",
+      "organization": "Pencak Silat Perisai Diri Extracurricular",
+      "year": 2001,
+      "month": "July",
+      "position": "Member"
+    }
+  ],
+  "achievements": [
+    {
+      "year": 2021,
+      "title": "Finalist EU Social DigiThon 2021 Competition: \"Fighting Cyberbullying Against Children\"",
+      "level": "National"
+    },
+    {
+      "year": 2017,
+      "title": "Winner Indonesia Next Apps 4.0 – Tizen Smartphone Challenge",
+      "level": "National"
+    },
+    {
+      "year": 2017,
+      "title": "Winner Samsung Tizen Mobile App Incentive Program",
+      "level": "International"
+    },
+    {
+      "year": 2010,
+      "title": "Top 20 ITB Entrepreneurship Challenge",
+      "level": "National"
+    },
+    {
+      "year": 2009,
+      "title": "1st Place Game Programmer Indosat Wireless Innovation Contest",
+      "level": "National"
+    }
+  ],
+  "language_proficiency": [
+    {
+      "language": "Indonesian",
+      "test": "-",
+      "score": "Native",
+      "certification_year": "-",
+      "validity_period": "-"
+    },
+    {
+      "language": "Javanese",
+      "test": "-",
+      "score": "Native",
+      "certification_year": "-",
+      "validity_period": "-"
+    },
+    {
+      "language": "English",
+      "test": "IELTS",
+      "score": 7.5,
+      "certification_year": 2025,
+      "validity_period": "2 years"
+    }
+  ],
+  "trainings_and_workshops": [
+    {
+      "title": "Workshop on Assistance for Preparing Research and Community Service Grant Proposals",
+      "organizer": "P3M State Polytechnic of Malang",
+      "date": "2024-11-05"
+    },
+    {
+      "title": "Artificial Intelligence Training",
+      "organizer": "Competency Enhancement and Testing Unit State Electronics Polytechnic of Surabaya",
+      "date": "2024-10-23"
+    },
+    {
+      "title": "Competency Assessor Refresher",
+      "organizer": "Professional Certification Institute State Polytechnic of Malang",
+      "date": "2024-08-14"
+    },
+    {
+      "title": "Higher Education AMI Auditor Training",
+      "organizer": "P2SDM LKPE IPB University",
+      "date": "2024-06-19"
+    },
+    {
+      "title": "Workshop on Implementation of PBL using CDIO Approach",
+      "organizer": "State Polytechnic of Batam",
+      "date": "2023-11-13"
+    },
+    {
+      "title": "APPLIED APPROACH BATCH III",
+      "organizer": "State Polytechnic of Malang",
+      "date": "2023-09-18"
+    },
+    {
+      "title": "Work Meeting and Technical Guidance on APTIKOM Curriculum Development based on OBE/KKNI/SKKNI 2023",
+      "organizer": "APTIKOM",
+      "date": "2023-08-10"
+    },
+    {
+      "title": "Workshop on Curriculum Development and Learning Instruments for D-IV Informatics Engineering Study Program",
+      "organizer": "State Polytechnic of Malang",
+      "date": "2023-08-08"
+    },
+    {
+      "title": "Learn Basic JavaScript Programming",
+      "organizer": "Dicoding",
+      "date": "2023-02-25"
+    },
+    {
+      "title": "Journal Article Writing Training EBAS 3 - Easy Strategy for Publishing International Journals",
+      "organizer": "Ebizmark",
+      "date": "2022-10-17"
+    },
+    {
+      "title": "Agile Development Scrum Master",
+      "organizer": "INIXINDO",
+      "date": "2022-08-24"
+    },
+    {
+      "title": "Educational Research Workshop for Reputable Journals",
+      "organizer": "LPP Brawijaya University",
+      "date": "2022-07-28"
+    },
+    {
+      "title": "Workshop Series Introduction to Artificial Intelligence using Python",
+      "organizer": "Advanced Generation Foundation",
+      "date": "2022-04-09"
+    },
+    {
+      "title": "Apple Developer Academy",
+      "organizer": "Apple, Inc. USA",
+      "date": "2022-03-07"
+    },
+    {
+      "title": "Cloud Practitioner Essentials (Learn Basic AWS Cloud)",
+      "organizer": "Dicoding",
+      "date": "2022-01-09"
+    },
+    {
+      "title": "Interactive E-Book Creation Workshop",
+      "organizer": "Information Technology Department State Polytechnic of Malang",
+      "date": "2021-08-13"
+    },
+    {
+      "title": "Online Vocational Practice Learning Methodology Training for Lecturers",
+      "organizer": "State Polytechnic of Malang",
+      "date": "2021-07-12"
+    },
+    {
+      "title": "Basic Instructional Techniques Skills Development Training (PEKERTI) Batch VI 2021",
+      "organizer": "LP3M Brawijaya University",
+      "date": "2021-06-28"
+    },
+    {
+      "title": "Competency Assessor Refreshment",
+      "organizer": "LSP State Polytechnic of Malang",
+      "date": "2021-06-14"
+    },
+    {
+      "title": "Professional Academy - Digital Talent Scholarship Data Engineer",
+      "organizer": "Research and Development Agency for Human Resources Ministry of Communication and Information RI",
+      "date": "2021-03-17"
+    },
+    {
+      "title": "Artificial Intelligence with Machine Learning on Java",
+      "organizer": "Oracle Academy",
+      "date": "2020-11-30"
+    },
+    {
+      "title": "Basic Training for Prospective Civil Servants Batch VII 2020",
+      "organizer": "Center for Training and Development and Government Management Studies",
+      "date": "2020-10-07"
+    },
+    {
+      "title": "Machine Learning Summer School - Indonesia",
+      "organizer": "Telkom University",
+      "date": "2020-08-03"
+    },
+    {
+      "title": "Vocational Retooling - ToT Big Data Analytics and Cyber Security",
+      "organizer": "Ministry of Research, Technology and Higher Education & Nanyang Polytechnic, Singapore",
+      "date": "2018-08-27"
+    },
+    {
+      "title": "English for Academic Purposes Training",
+      "organizer": "Language Service Unit Bandung Institute of Technology",
+      "date": "2014-06-13"
+    },
+    {
+      "title": "Qt - NFC Workshop",
+      "organizer": "Nokia Developer",
+      "date": "2011-11-03"
+    },
+    {
+      "title": "ITB Entrepreneur Camp",
+      "organizer": "BEM Bandung Institute of Technology",
+      "date": "2010-03-08"
+    },
+    {
+      "title": "Cisco IT Essentials: PC Hardware and Software",
+      "organizer": "Cisco Networking Academy",
+      "date": "2008-08-30"
+    },
+    {
+      "title": "Desktop Application Training Professional Level",
+      "organizer": "eBiz Microsoft Gold Certified Partner",
+      "date": "2008-08-08"
+    },
+    {
+      "title": "Microsoft Office Specialist Program",
+      "organizer": "Indonesian German Institute State Polytechnic of Malang",
+      "date": "2008-03-02"
+    },
+    {
+      "title": "National Seminar and Workshop: Translation in the Globalized World",
+      "organizer": "Malang Translation Community",
+      "date": "2007-12-08"
+    },
+    {
+      "title": "Student Management Leadership Training for Greater Malang Area",
+      "organizer": "State Polytechnic of Malang",
+      "date": "2007-12-02"
+    },
+    {
+      "title": "Intermediate English Training Level 2",
+      "organizer": "English Conversation Club State Senior High School 1 Lawang",
+      "date": "2006-07-05"
+    },
+    {
+      "title": "Student Orientation Development for Junior/Senior High Schools in East Java",
+      "organizer": "Education Department of East Java Province",
+      "date": "2006-06-21"
+    }
+  ],
+  "research_projects": [
+    {
+      "year": 2024,
+      "title": "Integration of Portion-Based Balancing Mechanism on Supervisor and Examiner Lecturer Proposal Features in Information Technology Department Final Project Management System",
+      "funder": "State Polytechnic of Malang"
+    },
+    {
+      "year": 2024,
+      "title": "Water Flow Prediction in Agricultural Irrigation Using Support Vector Machine and Condition Monitoring Using IoT Platform",
+      "funder": "State Polytechnic of Malang"
+    },
+    {
+      "year": 2024,
+      "title": "Algorithm Extension Method on Web-Based Online Clustering Services",
+      "funder": "State Polytechnic of Malang"
+    },
+    {
+      "year": 2024,
+      "title": "Intelligent System for Asset Management and Transformer Condition Assessment",
+      "funder": "Ministry of Education, Culture, Research and Technology"
+    },
+    {
+      "year": 2023,
+      "title": "DEVELOPMENT OF JAVA COMPUTER NETWORK PROGRAMMING LEARNING SYSTEM WITH AUTOMATIC ASSESSMENT",
+      "funder": "State Polytechnic of Malang"
+    },
+    {
+      "year": 2023,
+      "title": "Design and Implementation of Client-Side Workload T-SQL Exam Automatic Assessment System",
+      "funder": "State Polytechnic of Malang"
+    },
+    {
+      "year": 2023,
+      "title": "Courier Clustering Management System as a Solution for MSME Product Distribution and Marketing",
+      "funder": "Ministry of Education, Culture, Research and Technology"
+    },
+    {
+      "year": 2023,
+      "title": "TRANSACTION DATA MANAGEMENT INFORMATION SYSTEM FOR DRINKING WATER SUPPLY AND SANITATION SYSTEM MANAGEMENT GROUPS (KP-SPAMS)",
+      "funder": "State Polytechnic of Malang"
+    },
+    {
+      "year": 2022,
+      "title": "Development of Integrated IoT Learning Tools for Vocational High School Students with Modular Component Approach",
+      "funder": "State Polytechnic of Malang"
+    },
+    {
+      "year": 2022,
+      "title": "Design and Implementation of Generic Multi-Algorithm Web-Based Online Clustering Application",
+      "funder": "State Polytechnic of Malang"
+    },
+    {
+      "year": 2022,
+      "title": "DESIGN AND IMPLEMENTATION OF NETWORK PROGRAMMING LEARNING MEDIA AS INDEPENDENT LEARNING TOOLS TO IMPROVE STUDENT COMPETENCY",
+      "funder": "State Polytechnic of Malang"
+    },
+    {
+      "year": 2021,
+      "title": "ANALYSIS OF TYPES AND CHARACTERISTICS OF NETWORK THREATS CASE STUDY OF INTRUSION DETECTION SYSTEM (IDS) INFRASTRUCTURE AT ONE OF THE GOVERNMENT HEALTH INSTITUTIONS",
+      "funder": "State Polytechnic of Malang"
+    },
+    {
+      "year": 2021,
+      "title": "Internet of Things Learning Ecosystem Based on Polinema IoT Development Board",
+      "funder": "Ministry of Education, Culture, Research and Technology"
+    },
+    {
+      "year": 2020,
+      "title": "Utilization of Big Data Technology to Build POLINEMA Research Data Web Portal",
+      "funder": "State Polytechnic of Malang"
+    },
+    {
+      "year": 2018,
+      "title": "DESIGN AND IMPLEMENTATION OF MULTI-PLATFORM TEXT MESSAGING SOFTWARE FOR LECTURERS AND STUDENTS OF STATE POLYTECHNIC OF MALANG USING REACT NATIVE TECHNOLOGY",
+      "funder": "State Polytechnic of Malang"
+    }
+  ],
+  "publications": [
+    {
+      "type": "Journal",
+      "year": 2024,
+      "title": "Design and Implementation KP-SPAMS Transaction Information System utilizing Laravel Framework and Extreme Programming Methodology",
+      "publisher": "Journal of Informatics Information System Software Engineering and Applications (INISTA)",
+      "link": "https://journal.ittelkom-pwt.ac.id/index.php/inista/article/download/1645/517"
+    },
+    {
+      "type": "Journal",
+      "year": 2024,
+      "title": "Development of a Web-Based SQL Query Online Examination System with Automated Grading Using the MVC Design Pattern",
+      "publisher": "International Journal Software Engineering and Computer Science (IJSECS)",
+      "link": "https://journal.lembagakita.org/index.php/ijsecs/article/download/3285/2685"
+    },
+    {
+      "type": "Book",
+      "year": 2024,
+      "title": "Security Protection in the Telecommunications Industry",
+      "publisher": "Polinema Press",
+      "link": "https://polinemapress21.com/2024/08/28/perlindungan-keamanan-dalam-industri-telekomunikasi/"
+    },
+    {
+      "type": "Journal",
+      "year": 2023,
+      "title": "DIGITALIZATION AND DOCUMENT REPOSITORY AT KARANGDUREN VILLAGE, PAKISAJI DISTRICT, MALANG REGENCY TO IMPROVE COMMUNITY SERVICES",
+      "publisher": "Journal of Community Service",
+      "link": "https://jurnal.polinema.ac.id/index.php/abdimas/article/download/3867/3226"
+    },
+    {
+      "type": "Journal",
+      "year": 2023,
+      "title": "WEBSITE CREATION FOR PROGRAM SOCIALIZATION AND ACTIVITY IMPLEMENTATION NEWS AT BUMI LANGGAT PEDULI FOUNDATION",
+      "publisher": "Journal of Community Service",
+      "link": "https://jurnal.polinema.ac.id/index.php/abdimas/article/download/4486/3224"
+    },
+    {
+      "type": "Journal",
+      "year": 2023,
+      "title": "Official Travel Letter Information System (SPPD) KPU Kediri Regency",
+      "publisher": "Journal of Informatics and Multimedia",
+      "link": "http://jurnal.polinema.ac.id/index.php/jtim/article/download/4607/3129"
+    },
+    {
+      "type": "Journal",
+      "year": 2023,
+      "title": "Analysis of System Requirements and Architecture for Facilitating Table-Based Data Clustering for Non-Technical Users",
+      "publisher": "Journal of Applied Business and Technology",
+      "link": "https://e-jabt.org/index.php/JABT/article/download/140/124"
+    },
+    {
+      "type": "Journal",
+      "year": 2023,
+      "title": "Website-Based Online Examination System for Karanggondang Village Personnel Recruitment",
+      "publisher": "Journal of Informatics and Multimedia",
+      "link": "http://jurnal.polinema.ac.id/index.php/jtim/article/download/2454/2467"
+    },
+    {
+      "type": "Journal",
+      "year": 2023,
+      "title": "RESTFUL API DEVELOPMENT TO ASSIST CATFISH FARMERS IN \"PANEN-PANEN\" SUPPLY CHAIN MANAGEMENT SYSTEM",
+      "publisher": "Cahaya Mandalika Journal",
+      "link": "https://ojs.cahayamandalika.com/index.php/JCM/article/download/1426/1206"
+    },
+    {
+      "type": "Book",
+      "year": 2023,
+      "title": "Critical Thinking & Case Problem Solving [Electronic Resource]",
+      "publisher": "CV. Karya Bakti Makmur Indonesia",
+      "link": "https://penerbitkbm.com/buku/berpikir-kritis-pemecahan-kasus/"
+    },
+    {
+      "type": "Journal",
+      "year": 2022,
+      "title": "COMPUTER NETWORK INSTALLATION AS SUPPORTING ADMINISTRATIVE SERVICES FOR KARANGDUREN VILLAGE COMMUNITY, MALANG REGENCY",
+      "publisher": "Journal of Community Service",
+      "link": "https://jurnal.polinema.ac.id/index.php/abdimas/article/download/2455/1924"
+    },
+    {
+      "type": "Journal",
+      "year": 2022,
+      "title": "A Novel Approach for Recognition and Identification of Low-Level Flight Military Aircraft using Naive Bayes Classifier and Information Fusion",
+      "publisher": "International Journal of Artificial Intelligence Research",
+      "link": "http://ijair.id/index.php/ijair/article/download/248/106"
+    },
+    {
+      "type": "Journal",
+      "year": 2022,
+      "title": "Frozen Food Sales Prediction System using Monte Carlo Method (Case Study: Supermama Frozen Food)",
+      "publisher": "Buana Informatics Journal",
+      "link": "https://ojs.uajy.ac.id/index.php/jbi/article/view/6496/2822"
+    },
+    {
+      "type": "Journal",
+      "year": 2022,
+      "title": "Implementation of K-Means, Dbscan, and Meanshift Methods for Network Threat Type Analysis on Intrusion Detection System",
+      "publisher": "Polbeng Inovtek Journal Informatics Series",
+      "link": "http://103.174.114.133/index.php/ISI/article/download/2336/1148"
+    },
+    {
+      "type": "Journal",
+      "year": 2022,
+      "title": "Big data system of research data in the informatics department based on software enhancement",
+      "publisher": "International Journal of Computer Information Systems and Industrial Management Applications",
+      "link": "https://cspub-ijcisim.org/index.php/ijcisim/article/download/587/554"
+    },
+    {
+      "type": "Journal",
+      "year": 2022,
+      "title": "RAW MATERIAL REQUIREMENT PREDICTION INFORMATION SYSTEM USING SINGLE EXPONENTIAL SMOOTHING METHOD",
+      "publisher": "Journal of Applied Science and Technology",
+      "link": "http://jurnal.polinema.ac.id/index.php/jtia/article/download/1659/1246"
+    },
+    {
+      "type": "Journal",
+      "year": 2022,
+      "title": "REPOSITORY AND ARCHIVING SYSTEM FOR OFFICIAL LETTER DATA STORAGE MANAGEMENT AT KARANGDUREN VILLAGE, MALANG REGENCY",
+      "publisher": "Journal of Community Service",
+      "link": "http://jurnal.polinema.ac.id/index.php/abdimas/article/download/2708/2141"
+    },
+    {
+      "type": "Book",
+      "year": 2022,
+      "title": "Telecommunications Broadcasting and Information Technology Law Regulation",
+      "publisher": "Polinema Press",
+      "link": "-"
+    },
+    {
+      "type": "Book",
+      "year": 2022,
+      "title": "EVOLUTION OF INFORMATION TECHNOLOGY LAW AND REGULATION",
+      "publisher": "Polinema Press",
+      "link": "-"
+    },
+    {
+      "type": "Book",
+      "year": 2022,
+      "title": "BUSINESS INTELLIGENCE",
+      "publisher": "Cerdas Ulet Kreatif",
+      "link": "https://www.cerdas.co.id/wp-content/uploads/2022/11/Bussiness-Inteligence-Banni-Satria-Andoko-dkk.pdf"
+    },
+    {
+      "type": "Journal",
+      "year": 2021,
+      "title": "Development of A Geographic Information System for The Distribution of Parks in Kediri City",
+      "publisher": "Journal of Applied Geospatial Information",
+      "link": "-"
+    },
+    {
+      "type": "Paper",
+      "year": 2021,
+      "title": "Implementation of Moora Method in Decision Support System for Appropriate Football Player Transfer for a Team",
+      "publisher": "Polinema Applied Informatics Seminar",
+      "link": "https://www.academia.edu/download/99517195/873-Article_Text-1738-1-10-20211109.pdf"
+    },
+    {
+      "type": "Paper",
+      "year": 2021,
+      "title": "Design of Thesis Progress Information System",
+      "publisher": "Polinema Applied Informatics Seminar",
+      "link": "https://www.academia.edu/download/99517194/871-Article_Text-1732-1-10-20211109.pdf"
+    },
+    {
+      "type": "Paper",
+      "year": 2021,
+      "title": "ANALYSIS OF NETWORK THREAT TYPES IN INTRUSION DETECTION SYSTEM USING K-MEANS METHOD",
+      "publisher": "SENTIA 2021",
+      "link": "-"
+    },
+    {
+      "type": "Journal",
+      "year": 2021,
+      "title": "Implementation of 360 Degree to Assist Lecturer Performance Reporting Process (Case Study: JTI Polinema)",
+      "publisher": "Polinema Informatics Journal",
+      "link": "https://jurnal.polinema.ac.id/index.php/jip/article/download/2514/1975"
+    },
+    {
+      "type": "Paper",
+      "year": 2021,
+      "title": "Web application implementation of Android programming learning assistance system and its evaluations",
+      "publisher": "IOP Conference Series: Materials Science and Engineering",
+      "link": "https://iopscience.iop.org/article/10.1088/1757-899X/1073/1/012060/pdf"
+    },
+    {
+      "type": "Journal",
+      "year": 2021,
+      "title": "Designing real-time research data portal of JTI POLINEMA",
+      "publisher": "IOP Conference Series: Materials Science and Engineering",
+      "link": "https://iopscience.iop.org/article/10.1088/1757-899X/1073/1/012063/pdf"
+    },
+    {
+      "type": "Journal",
+      "year": 2021,
+      "title": "Interactive Presentation Training for Residents and Village Officials of Karangduren Village, Pakisaji District, Malang Regency",
+      "publisher": "Community Service Journal",
+      "link": "http://jpkm.polinema.ac.id/index.php/jpkm/article/download/55/47"
+    },
+    {
+      "type": "Book",
+      "year": 2021,
+      "title": "Critical Thinking & Case Problem Solving Textbook",
+      "publisher": "UPT P3AI Malang State Polytechnic",
+      "link": "-"
+    },
+    {
+      "type": "Journal",
+      "year": 2020,
+      "title": "A Proposed Framework of Campus-Oriented Online Text Messaging System.",
+      "publisher": "International Journal of Interactive Mobile Technologies",
+      "link": "https://www.academia.edu/download/80945079/7881.pdf"
+    },
+    {
+      "type": "Paper",
+      "year": 2020,
+      "title": "Outstanding Lecturer Assessment Using Waspas Method",
+      "publisher": "Polinema Applied Informatics Seminar",
+      "link": "-"
+    },
+    {
+      "type": "Paper",
+      "year": 2020,
+      "title": "Sentiment Analysis of Online Marketplace Service Quality in Indonesia Using Support Vector Machine Method",
+      "publisher": "Polinema Applied Informatics Seminar",
+      "link": "https://www.academia.edu/download/99517174/248.pdf"
+    },
+    {
+      "type": "Journal",
+      "year": 2020,
+      "title": "Microsoft Office Administration Training for Residents and Village Officials of Karangduren Village, Pakisaji District, Malang Regency",
+      "publisher": "Polinema Community Service Journal",
+      "link": "https://www.academia.edu/download/99517178/41.pdf"
+    },
+    {
+      "type": "Book",
+      "year": 2020,
+      "title": "Database Practical Guide",
+      "publisher": "POLINEMA PRESS",
+      "link": "-"
+    },
+    {
+      "type": "Paper",
+      "year": 2019,
+      "title": "Application of K-medoids clustering method for grouping corn plants based on productivity, production, and area of land in East Java",
+      "publisher": "Journal of Physics: Conference Series",
+      "link": "https://iopscience.iop.org/article/10.1088/1742-6596/1402/7/077061/pdf"
+    },
+    {
+      "type": "Journal",
+      "year": 2019,
+      "title": "ANALYSIS OF MOVING AVERAGE AND FUZZY TIME SERIES METHODS IN WEBSITE DEVELOPMENT TO PREDICT NEXT SEASON PLAYER TRANSFER PRICES",
+      "publisher": "Polinema Informatics Journal",
+      "link": "http://jurnal.polinema.ac.id/index.php/jip/article/download/2625/2071"
+    },
+    {
+      "type": "Journal",
+      "year": 2019,
+      "title": "DEVELOPMENT OF SHARIA-BASED STORE WEBSITE APPLICATION WITH APRIORI ALGORITHM IMPLEMENTATION",
+      "publisher": "Polinema Informatics Journal",
+      "link": "https://jurnal.polinema.ac.id/index.php/jip/article/download/2774/2214"
+    },
+    {
+      "type": "Journal",
+      "year": 2019,
+      "title": "Implementation of Association Rule with Apriori Algorithm in Chemical Sales Data Mining Analysis at PT Gresik Cipta Sejahtera",
+      "publisher": "Polinema Informatics Journal",
+      "link": "http://jurnal.polinema.ac.id/index.php/jip/article/download/2635/2081"
+    },
+    {
+      "type": "Journal",
+      "year": 2019,
+      "title": "E-Marketplace Application for Indonesian Fishermen Association (HNSI) Business Group in Palang District, Tuban Regency",
+      "publisher": "Celebes Computer Science Journal",
+      "link": "https://www.academia.edu/download/99517225/353.pdf"
+    },
+    {
+      "type": "Paper",
+      "year": 2019,
+      "title": "Implementation of Backpropagation Method for Monthly Water Usage Prediction (Case Study: PDAM Malang Regency Pakisaji Unit)",
+      "publisher": "Polinema Applied Informatics Seminar",
+      "link": "-"
+    },
+    {
+      "type": "Paper",
+      "year": 2019,
+      "title": "Implementation of Moora Method for Determining School Rehabilitation Priorities at Malang City Education Office",
+      "publisher": "Polinema Applied Informatics Seminar",
+      "link": "https://www.academia.edu/download/99517228/363-Article_Text-910-1-10-20200127.pdf"
+    },
+    {
+      "type": "Paper",
+      "year": 2019,
+      "title": "Clustering for Sales Management System at Laptop Clinic Using Self Organizing Maps (SOM) Method",
+      "publisher": "Polinema Applied Informatics Seminar",
+      "link": "-"
+    },
+    {
+      "type": "Paper",
+      "year": 2019,
+      "title": "Implementation of Cosine Similarity Method in Tourism Service Chatbot Application in Malang Region",
+      "publisher": "Polinema Applied Informatics Seminar",
+      "link": "https://www.academia.edu/download/99517223/683-Article_Text-960-1-10-20200529.pdf"
+    },
+    {
+      "type": "Journal",
+      "year": 2019,
+      "title": "Development of Expert System for Human Skin Disease Diagnosis Using Naive Bayes Method",
+      "publisher": "Journal of Information Technology and Robotics",
+      "link": "https://jifti.upnjatim.ac.id/index.php/jifti/article/download/97/10"
+    },
+    {
+      "type": "Journal",
+      "year": 2018,
+      "title": "Design and Implementation of Hybrid Cloud Computing as Infrastructure for Big Data Analysis Using Analytic Hierarchy Process (AHP)",
+      "publisher": "Techno.com",
+      "link": "-"
+    },
+    {
+      "type": "Paper",
+      "year": 2018,
+      "title": "Indonesian-Javanese Android Dictionary Application",
+      "publisher": "SISFOTEK Proceedings",
+      "link": "http://seminar.iaii.or.id/index.php/SISFOTEK/article/download/87/76"
+    },
+    {
+      "type": "Paper",
+      "year": 2018,
+      "title": "APPLICATION OF TREND MOMENT AND SINGLE EXPONENTIAL SMOOTHING METHODS IN SALES FORECASTING AT WT JAYA PRODUCTION",
+      "publisher": "Polinema Applied Informatics Seminar",
+      "link": "-"
+    },
+    {
+      "type": "Journal",
+      "year": 2018,
+      "title": "Implementation of Support Vector Machine Method for Cabbage Plant Leaf Disease Identification",
+      "publisher": "Polinema Informatics Journal",
+      "link": "http://jurnal.polinema.ac.id/index.php/jip/article/download/2811/2255"
+    },
+    {
+      "type": "Journal",
+      "year": 2018,
+      "title": "Javanese Women's Emotion Expert System Using Certainty Factor Method",
+      "publisher": "Polinema Informatics Journal",
+      "link": "https://jurnal.polinema.ac.id/index.php/jip/article/download/2815/2259"
+    },
+    {
+      "type": "Journal",
+      "year": 2018,
+      "title": "Sign Language Letter Recognition System Using Adaptive Learning Vector Quantization",
+      "publisher": "Polinema Informatics Journal",
+      "link": "http://jurnal.polinema.ac.id/index.php/jip/article/download/2670/2115"
+    },
+    {
+      "type": "Paper",
+      "year": 2017,
+      "title": "Analysis of Javanese Women's Anger Emotion Response Using K-Means Clustering Algorithm",
+      "publisher": "National Seminar on Information Technology Applications (SNATI)",
+      "link": "https://journal.uii.ac.id/Snati/article/download/8473/7199"
+    },
+    {
+      "type": "Journal",
+      "year": 2016,
+      "title": "Ferrying vehicular data in cloud through software defined networking",
+      "publisher": "2016 IEEE 12th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)",
+      "link": "https://www.csie.cgu.edu.tw/~prasankumarsahoo/Publication_PDF/journal/c23.pdf"
+    },
+    {
+      "type": "Journal",
+      "year": 2016,
+      "title": "Data Ferrying in Cloud via SDN for the Vehicles in a Smart-City",
+      "publisher": "Chang Gung University",
+      "link": "http://thesis.lib.cgu.edu.tw/thesis/detail/c56e568bc4a2743168e12f3f9e1aaadb/"
+    }
+  ],
+  "conferences_and_seminars": [
+    {
+      "year": 2023,
+      "title": "Technical Training on Aptikom OBE-Based Curriculum Development",
+      "organizer": "Brawijaya University",
+      "role": "Participant"
+    },
+    {
+      "year": 2023,
+      "title": "Digital Literacy for Government Sector to Ministry of Education, Culture, Research and Technology Civil Servants",
+      "organizer": "Ministry of Education, Culture, Research and Technology of Republic of Indonesia",
+      "role": "Participant"
+    },
+    {
+      "year": 2022,
+      "title": "AWS Builder Online Series",
+      "organizer": "Amazon Web Service (AWS)",
+      "role": "Participant"
+    },
+    {
+      "year": 2022,
+      "title": "Alumni Tracer Study Webinar",
+      "organizer": "LPPM Bogor Agricultural Institute",
+      "role": "Participant"
+    },
+    {
+      "year": 2022,
+      "title": "Innovation Product Expo and Industry-University Link & Match Strengthening - Polinema 2022",
+      "organizer": "Malang State Polytechnic",
+      "role": "Committee"
+    },
+    {
+      "year": 2022,
+      "title": "Workshop on Certification Scheme Finalization and MUK LSP Polinema",
+      "organizer": "Malang State Polytechnic",
+      "role": "Participant"
+    },
+    {
+      "year": 2022,
+      "title": "Baparekraf Developer Day 2022",
+      "organizer": "Tourism and Creative Economy Agency of Republic of Indonesia",
+      "role": "Participant"
+    },
+    {
+      "year": 2022,
+      "title": "AWS X Dicoding LIVE: Storage and Database in AWS",
+      "organizer": "AWS and Dicoding",
+      "role": "Participant"
+    },
+    {
+      "year": 2021,
+      "title": "International Webinar on AI & IoT in Biomedical and Healthcare Applications",
+      "organizer": "Bandung Institute of Technology",
+      "role": "Participant"
+    },
+    {
+      "year": 2021,
+      "title": "Knowledge Sharing: Starting from Engineering Physics Ending at CERN Accelerator",
+      "organizer": "Indonesian Engineers Association - Engineering Physics",
+      "role": "Participant"
+    },
+    {
+      "year": 2021,
+      "title": "3 IN 1 Webinar on Patent Claim Writing",
+      "organizer": "National Research and Innovation Agency (BRIN)",
+      "role": "Participant"
+    },
+    {
+      "year": 2021,
+      "title": "National Seminar on Business and Management (SENABISMA) 2021",
+      "organizer": "Malang State Polytechnic",
+      "role": "Participant"
+    },
+    {
+      "year": 2021,
+      "title": "Polinema Applied Informatics National Seminar (SIAP) 2021",
+      "organizer": "Malang State Polytechnic",
+      "role": "Participant"
+    },
+    {
+      "year": 2021,
+      "title": "Patent Dissemination Webinar",
+      "organizer": "Malang State Polytechnic",
+      "role": "Participant"
+    },
+    {
+      "year": 2021,
+      "title": "IoT Creation Smart Building and Residential Webinar",
+      "organizer": "Indonesian IoT Association & Ministry of Communication and Information Technology of Republic of Indonesia",
+      "role": "Participant"
+    },
+    {
+      "year": 2021,
+      "title": "National Digital Literacy: Interacting in the Digital Era",
+      "organizer": "Ministry of Communication and Information Technology of Republic of Indonesia",
+      "role": "Participant"
+    },
+    {
+      "year": 2021,
+      "title": "7 Trends & Anatomy of Computing Professions",
+      "organizer": "BrainMatics",
+      "role": "Participant"
+    },
+    {
+      "year": 2021,
+      "title": "Oracle Academy Virtual Cloud Day - Japan and Asia Pacific",
+      "organizer": "Oracle Academy Asia Pacific",
+      "role": "Participant"
+    },
+    {
+      "year": 2021,
+      "title": "WEBINAR ON IMPROVING RESEARCH AND INNOVATION QUALITY",
+      "organizer": "Malang State Polytechnic",
+      "role": "Participant"
+    },
+    {
+      "year": 2021,
+      "title": "Roadmap for Preparing and Processing Research Results Towards Patents",
+      "organizer": "LPPM Open University",
+      "role": "Participant"
+    },
+    {
+      "year": 2021,
+      "title": "Online Knowledge Sharing Smart Solution in Water Treatment",
+      "organizer": "BK Engineering Physics PII",
+      "role": "Participant"
+    },
+    {
+      "year": 2020,
+      "title": "The 2nd Annual Advanced Technology, Applied Science and Engineering Conference",
+      "organizer": "Malang State Polytechnic",
+      "role": "Speaker"
+    },
+    {
+      "year": 2020,
+      "title": "AWSome Day Online Conference",
+      "organizer": "Amazon Web Services",
+      "role": "Participant"
+    },
+    {
+      "year": 2016,
+      "title": "IEEE 12th WiMob 2016",
+      "organizer": "IEEE",
+      "role": "Speaker"
+    },
+    {
+      "year": 2014,
+      "title": "Seminar on Forensics and Audit of Art, Science, Technology",
+      "organizer": "KK Humanities Faculty of Fine Arts and Design ITB",
+      "role": "Participant"
+    },
+    {
+      "year": 2009,
+      "title": "Soft Skills Training for Polytechnic Students",
+      "organizer": "Information Management Study Program Malang State Polytechnic",
+      "role": "Participant"
+    },
+    {
+      "year": 2009,
+      "title": "Technology Seminar: Feel Free With Open Source",
+      "organizer": "SUN Microsystem Indonesia",
+      "role": "Participant"
+    },
+    {
+      "year": 2007,
+      "title": "National Seminar & Workshop Translation in the Globalised World",
+      "organizer": "Malang Translator Community & Malang State Polytechnic",
+      "role": "Participant"
+    }
+  ],
+  "awards": [
+    {
+      "year": 2022,
+      "title": "Most Favorite Lecturer DDM Information Technology Department 2022",
+      "given_by": "Malang State Polytechnic"
+    },
+    {
+      "year": 2020,
+      "title": "Outstanding Achievement Third Place Basic Training Civil Servants Batch VII",
+      "given_by": "Puslatbang KMP LAN Makassar"
+    },
+    {
+      "year": 2016,
+      "title": "Best Graduate of Computer Science & Information Engineering Graduate Program",
+      "given_by": "Chang Gung University, Taiwan"
+    },
+    {
+      "year": 2008,
+      "title": "Best Graduate Diploma I ECP Department",
+      "given_by": "Malang State Polytechnic"
+    },
+    {
+      "year": 2005,
+      "title": "Certificate of Appreciation for Malang Regency Paskibraka",
+      "given_by": "Malang Regent"
+    }
+  ]
+}

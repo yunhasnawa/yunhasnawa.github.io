@@ -278,19 +278,9 @@
                             <tr><td><strong>Full Name:</strong></td><td id="personalName"></td></tr>
                             <tr><td><strong>Nickname:</strong></td><td id="nickname"></td></tr>
                             <tr><td><strong>Gender:</strong></td><td id="gender"></td></tr>
-                            <tr><td><strong>Marital Status:</strong></td><td id="maritalStatus"></td></tr>
-                            <tr><td><strong>Birth Place:</strong></td><td id="birthPlace"></td></tr>
-                            <tr><td><strong>Birth Date:</strong></td><td id="birthDate"></td></tr>
                             <tr><td><strong>Nationality:</strong></td><td id="nationality"></td></tr>
-                        </table>
-                    </div>
-
-                    <div class="info-card">
-                        <h3>Contact & Address</h3>
-                        <table>
                             <tr><td><strong>Current Address:</strong></td><td id="currentAddress"></td></tr>
-                            <tr><td><strong>City:</strong></td><td id="currentCity"></td></tr>
-                            <tr><td><strong>Postal Code:</strong></td><td id="postalCode"></td></tr>
+                            <tr><td><strong>Contact Email:</strong></td><td id="contactEmail"></td></tr>
                         </table>
                     </div>
 
@@ -300,40 +290,29 @@
                             <tr><td><strong>Occupation:</strong></td><td id="occupation"></td></tr>
                             <tr><td><strong>Institution:</strong></td><td id="institution"></td></tr>
                             <tr><td><strong>Status:</strong></td><td id="civilStatus"></td></tr>
-                            <tr><td><strong>Unit (Eselon 1):</strong></td><td id="unitEselon1"></td></tr>
-                            <tr><td><strong>Unit (Eselon 2):</strong></td><td id="unitEselon2"></td></tr>
+                            <tr><td><strong>Unit (Echelon-1):</strong></td><td id="unitEselon1"></td></tr>
+                            <tr><td><strong>Unit (Echelon-2):</strong></td><td id="unitEselon2"></td></tr>
+                            <tr><td><strong>Official Page:</strong></td><td id="officialPage"></td></tr>
                         </table>
                     </div>
 
+                </div>
+
+                <div>
                     <div class="info-card">
-                        <h3>Academic Information</h3>
+                        <h3>Teaching Information</h3>
                         <table>
-                            <tr><td><strong>University:</strong></td><td id="university"></td></tr>
-                            <tr><td><strong>Study Program:</strong></td><td id="studyProgram"></td></tr>
-                            <tr><td><strong>GPA:</strong></td><td id="gpa"></td></tr>
-                            <tr><td><strong>Academic SKS:</strong></td><td id="academicSks"></td></tr>
+                            <tr><td><strong>Level:</strong></td><td id="teachingLevel"></td></tr>
+                            <tr><td><strong>Department:</strong></td><td id="department"></td></tr>
+                            <tr><td><strong>Program:</strong></td><td id="program"></td></tr>
+                            <tr><td><strong>Courses Taught:</strong></td><td id="coursesTaught"></td></tr>
                         </table>
                     </div>
                 </div>
-
+                <br class="clear" />
                 <div class="info-card">
                     <h3>Social Media</h3>
                     <div class="social-links" id="socialLinks"></div>
-                </div>
-            </div>
-
-            <!-- Strengths and Weaknesses -->
-            <div class="section">
-                <h2>Strengths & Weaknesses</h2>
-                <div class="skills-grid">
-                    <div>
-                        <h3 style="color: #28a745; margin-bottom: 15px;">Strong Points</h3>
-                        <div id="strongPoints"></div>
-                    </div>
-                    <div>
-                        <h3 style="color: #ffc107; margin-bottom: 15px;">Areas for Improvement</h3>
-                        <div id="weakPoints"></div>
-                    </div>
                 </div>
             </div>
 
@@ -348,7 +327,7 @@
                         <th>Field of Study</th>
                         <th>Period</th>
                         <th>GPA</th>
-                        <th>Student ID</th>
+                        <th>Scale</th>
                         <th>Status</th>
                     </tr>
                     </thead>
@@ -365,7 +344,7 @@
                         <th>Institution</th>
                         <th>Position</th>
                         <th>Period</th>
-                        <th>Annual Income Range (IDR)</th>
+                        <th>Reason for Leaving</th>
                     </tr>
                     </thead>
                     <tbody id="employmentTable"></tbody>
@@ -482,11 +461,26 @@
                         <th>Year</th>
                         <th>Organization</th>
                         <th>Position</th>
-                        <th>Education Level</th>
+                        <th>Type</th>
                     </tr>
                     </thead>
                     <tbody id="organizationTable"></tbody>
                 </table>
+            </div>
+
+            <!-- Self Evaluation -->
+            <div class="section">
+                <h2>Self Evaluation</h2>
+                <div class="skills-grid">
+                    <div>
+                        <h3 style="color: #28a745; margin-bottom: 15px;">Strong Points</h3>
+                        <div id="strongPoints"></div>
+                    </div>
+                    <div>
+                        <h3 style="color: #ffc107; margin-bottom: 15px;">Areas for Improvement</h3>
+                        <div id="weakPoints"></div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -495,7 +489,7 @@
 <script>
     async function loadCV() {
         try {
-            const response = await fetch('cv-data-format.json');
+            const response = await fetch('cv-data-public.json');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
@@ -513,39 +507,45 @@
 
         // Header
         document.getElementById('fullName').textContent = personal.full_name;
-        document.getElementById('position').textContent = personal.occupation;
+        document.getElementById('position').textContent = "Lecturer & Software Developer";//personal.occupation;
 
         // Personal Information
         document.getElementById('personalName').textContent = personal.full_name;
         document.getElementById('nickname').textContent = personal.nickname;
         document.getElementById('gender').textContent = personal.gender;
-        document.getElementById('maritalStatus').textContent = personal.marital_status;
-        document.getElementById('birthPlace').textContent = personal.birth_place;
-        document.getElementById('birthDate').textContent = personal.birth_date;
         document.getElementById('nationality').textContent = personal.nationality;
         document.getElementById('currentAddress').textContent = personal.current_address;
-        document.getElementById('currentCity').textContent = personal.current_city;
-        document.getElementById('postalCode').textContent = personal.current_postal_code;
+        document.getElementById('contactEmail').textContent = personal.contact_email;
         document.getElementById('occupation').textContent = personal.occupation;
         document.getElementById('institution').textContent = personal.institution;
         document.getElementById('civilStatus').textContent = personal.civil_service_status;
         document.getElementById('unitEselon1').textContent = personal.unit_eselon_1;
         document.getElementById('unitEselon2').textContent = personal.unit_eselon_2;
-        document.getElementById('university').textContent = personal.university;
-        document.getElementById('studyProgram').textContent = personal.study_program;
-        document.getElementById('gpa').textContent = personal.gpa;
-        document.getElementById('academicSks').textContent = personal.academic_sks;
+        document.getElementById('teachingLevel').textContent = personal.teaching_level;
+        document.getElementById('department').textContent = personal.department;
+        document.getElementById('program').textContent = personal.program;
+
+        document.getElementById('officialPage').innerHTML = `<a href="${personal.official_page}" target="_blank">PDDIKTI</a>`;
+
+        let coursesHTML = "<ul>";
+        for(const course of personal.courses_taught) {
+            coursesHTML += `<li>${course}</li>`;
+        }
+        document.getElementById('coursesTaught').innerHTML = coursesHTML + "</ul>";
 
         // Social Media
         const socialLinks = document.getElementById('socialLinks');
+        if (personal.social_media.linkedin) {
+            socialLinks.innerHTML += `<a href="${personal.social_media.linkedin}" target="_blank">LinkedIn</a>`;
+        }
+        if (personal.social_media.github) {
+            socialLinks.innerHTML += `<a href="${personal.social_media.github}" target="_blank">GitHub</a>`;
+        }
         if (personal.social_media.twitter) {
             socialLinks.innerHTML += `<a href="${personal.social_media.twitter}" target="_blank">Twitter</a>`;
         }
         if (personal.social_media.instagram) {
             socialLinks.innerHTML += `<a href="${personal.social_media.instagram}" target="_blank">Instagram</a>`;
-        }
-        if (personal.social_media.facebook) {
-            socialLinks.innerHTML += `<a href="${personal.social_media.facebook}" target="_blank">Facebook</a>`;
         }
 
         // Strong Points
@@ -570,7 +570,7 @@
                         <td>${edu.field_of_study}</td>
                         <td>${edu.start_year} - ${edu.end_year}</td>
                         <td>${edu.gpa}</td>
-                        <td>${edu.student_id}</td>
+                        <td>${edu.scale}</td>
                         <td>${edu.status}</td>
                     </tr>
                 `;
@@ -584,7 +584,7 @@
                         <td>${emp.institution}</td>
                         <td>${emp.position}</td>
                         <td>${emp.start_year} - ${emp.end_year || 'Present'}</td>
-                        <td>${emp.annual_income_range}</td>
+                        <td>${emp.reason_for_leaving}</td>
                     </tr>
                 `;
         });
@@ -644,13 +644,16 @@
         // Publications
         const publicationsTable = document.getElementById('publicationsTable');
         data.publications.forEach(pub => {
+            const pubLink = pub.link;
+            // Check if the publication begins with "http" or "https"
+            const link = pubLink.includes("http") ? `<a href="${pubLink}" target="_blank">Link</a>` : pubLink;
             publicationsTable.innerHTML += `
                     <tr>
                         <td>${pub.year}</td>
                         <td>${pub.type}</td>
                         <td>${pub.title}</td>
                         <td>${pub.publisher}</td>
-                        <td><a href="${pub.link}" target="_blank">View</a></td>
+                        <td>${link}</td>
                     </tr>
                 `;
         });
@@ -688,7 +691,7 @@
                         <td>${org.year} ${org.month}</td>
                         <td>${org.organization}</td>
                         <td>${org.position}</td>
-                        <td>${org.education_level}</td>
+                        <td>${org.organization_type}</td>
                     </tr>
                 `;
         });
