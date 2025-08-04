@@ -1169,5 +1169,35 @@
       "title": "Certificate of Appreciation for Malang Regency Paskibraka",
       "given_by": "Malang Regent"
     }
+  ],
+  "professional_certifications": [
+    {
+      "title": "Certified International Internal Quality Auditor (CIIQA)",
+      "issuer": "LSP Quantum HRM Internasional",
+      "date": "2024-06-22",
+      "expires": "2027-05-15",
+      "file": "files/professional_certifications/certified_international_internal_quality_auditor.pdf"
+    },
+    {
+      "title": "Assessor of Competency",
+      "issuer": "BNSP (National Professional Certification Agency)",
+      "date": "2024-08-22",
+      "expires": "2027-08-22",
+      "file": "files/professional_certifications/bnsp_assessor_of_competency.pdf"
+    },
+    {
+      "title": "IT Specialist - Artificial Intelligence",
+      "issuer": "Certiport",
+      "date": "2024-10-01",
+      "expires": "-",
+      "file": "files/professional_certifications/information_technology_specialist_of_artificial_intelligence.pdf"
+    },
+    {
+      "title": "IT Specialist - Software Development",
+      "issuer": "Certiport",
+      "date": "2025-07-15",
+      "expires": "2030-07-15",
+      "file": "files/professional_certifications/information_technology_specialist_of_software_development.pdf"
+    }
   ]
 }

@@ -358,6 +358,23 @@
                 </table>
             </div>
 
+            <!-- Professional Certifications -->
+            <div class="section">
+                <h2>Professional Certifications</h2>
+                <table>
+                    <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Issuer</th>
+                        <th>Date</th>
+                        <th>Expires</th>
+                        <th>File</th>
+                    </tr>
+                    </thead>
+                    <tbody id="professionalCertificationsTable"></tbody>
+                </table>
+            </div>
+
             <!-- Language Proficiency -->
             <div class="section">
                 <h2>Language Proficiency</h2>
@@ -421,7 +438,7 @@
                         <th>Type</th>
                         <th>Title</th>
                         <th>Publisher</th>
-                        <th>Link</th>
+                        <th>File</th>
                     </tr>
                     </thead>
                     <tbody id="publicationsTable"></tbody>
@@ -592,6 +609,21 @@
                         <td>${emp.position}</td>
                         <td>${emp.start_year} - ${emp.end_year || 'Present'}</td>
                         <td>${emp.reason_for_leaving}</td>
+                    </tr>
+                `;
+        });
+
+        // Professional Certifications
+        const certificationsTable = document.getElementById('professionalCertificationsTable');
+        console.log(data);
+        data.professional_certifications.forEach(cert => {
+            certificationsTable.innerHTML += `
+                    <tr>
+                        <td>${cert.title}</td>
+                        <td>${cert.issuer}</td>
+                        <td>${cert.date}</td>
+                        <td>${cert.expires}</td>
+                        <td><a href="${cert.file}" target="_blank">Link</a></td>
                     </tr>
                 `;
         });
